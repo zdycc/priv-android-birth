@@ -1,0 +1,4 @@
+<resources>
+    <!-- Compose 应用的主题，仅作为占位；实际配色由 BirthdateTheme 控制 -->
+    <style name="Theme.Birthdate" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
